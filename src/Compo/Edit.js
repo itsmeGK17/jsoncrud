@@ -84,7 +84,7 @@ const Edit = () => {
           backgroundColor: "transparent",
           boxShadow: 24,
           p: 4,
-          borderRadius: "15px",
+          borderRadius: "10px",
         }}
       >
         <Grid item sm={6} xs={12}>
